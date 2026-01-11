@@ -12,4 +12,5 @@ app.get("/", (_req, res) => {
 app.use("/api/movies", moviesRoutes)
 
 
+
 export default app;
